@@ -37,20 +37,4 @@ h4 {
   background-color: #dd4444;
 }
 
-.column {
-  width: 30%;
-  display: inline-block;
-}
 
-.small {
-  width: 100%;
-  height: 100%;
-}
-
-.med {
-  width: 203.5%;
-}
-
-.large {
-  width: 303%;
-}
